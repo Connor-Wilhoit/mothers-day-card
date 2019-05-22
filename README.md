@@ -14,3 +14,4 @@ The animations are all from the example file, so no credit can be taken there, h
 a given project, there may be some useful functions for one to learn from/use.
 
 Feel free to use this code as you want!
+![alt text](https://raw.githubusercontent.com/Connor-Wilhoit/mothers-day-card/master/mothers-day-card.jpg)
